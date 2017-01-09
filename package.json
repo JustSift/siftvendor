@@ -1,6 +1,6 @@
 {
-  "name": "siftvendor",
-  "version": "1.0.1",
+  "name": "sift-siftvendor",
+  "version": "1.0.2",
   "description": "",
   "main": "angular.hammer.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blenderer/siftvendor.git"
+    "url": "https://github.com/JustSift/siftvendor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blenderer/siftvendor/issues"
+    "url": "https://github.com/JustSift/siftvendor/issues"
   },
-  "homepage": "https://github.com/blenderer/siftvendor"
+  "homepage": "https://github.com/JustSift/siftvendor"
 }
